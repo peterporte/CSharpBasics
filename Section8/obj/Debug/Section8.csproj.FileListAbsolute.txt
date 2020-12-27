@@ -1,0 +1,14 @@
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Section8.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Section8.pdb
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pporte\source\repos\CSharpPractice\Section8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pporte\source\repos\CSharpPractice\Section8\obj\Debug\Section8.csprojAssemblyReference.cache
+C:\Users\pporte\source\repos\CSharpPractice\Section8\obj\Debug\Section8.csproj.CoreCompileInputs.cache
+C:\Users\pporte\source\repos\CSharpPractice\Section8\obj\Debug\Section8.csproj.CopyComplete
+C:\Users\pporte\source\repos\CSharpPractice\Section8\obj\Debug\Section8.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section8\obj\Debug\Section8.pdb

@@ -1,0 +1,7 @@
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\bin\Debug\CodingQuiz.exe.config
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\bin\Debug\CodingQuiz.exe
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\bin\Debug\CodingQuiz.pdb
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\obj\Debug\CodingQuiz.csprojAssemblyReference.cache
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\obj\Debug\CodingQuiz.csproj.CoreCompileInputs.cache
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\obj\Debug\CodingQuiz.exe
+C:\Users\pporte\source\repos\CSharpPractice\CodingQuiz\obj\Debug\CodingQuiz.pdb

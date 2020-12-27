@@ -1,0 +1,14 @@
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\MSTestSample.deps.json
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\MSTestSample.runtimeconfig.json
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\MSTestSample.runtimeconfig.dev.json
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\MSTestSample.dll
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\bin\Debug\netcoreapp2.1\MSTestSample.pdb
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.csprojAssemblyReference.cache
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.csproj.CoreCompileInputs.cache
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.AssemblyInfoInputs.cache
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.AssemblyInfo.cs
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.dll
+C:\Users\pporte\source\repos\CSharpPractice\UnitTestProject3\obj\Debug\netcoreapp2.1\MSTestSample.pdb

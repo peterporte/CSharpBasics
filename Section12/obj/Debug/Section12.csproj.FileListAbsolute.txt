@@ -1,0 +1,16 @@
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Section12.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Section12.pdb
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\WebDriver.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pporte\source\repos\CSharpPractice\Section12\bin\Debug\WebDriver.xml
+C:\Users\pporte\source\repos\CSharpPractice\Section12\obj\Debug\Section12.csprojAssemblyReference.cache
+C:\Users\pporte\source\repos\CSharpPractice\Section12\obj\Debug\Section12.csproj.CoreCompileInputs.cache
+C:\Users\pporte\source\repos\CSharpPractice\Section12\obj\Debug\Section12.csproj.CopyComplete
+C:\Users\pporte\source\repos\CSharpPractice\Section12\obj\Debug\Section12.dll
+C:\Users\pporte\source\repos\CSharpPractice\Section12\obj\Debug\Section12.pdb
